@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vtu29731/Applied-coding-skills/tree/master/0004-median-of-two-sorted-arrays) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu29731/Applied-coding-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/vtu29731/Applied-coding-skills/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vtu29731/Applied-coding-skills/tree/master/0239-sliding-window-maximum) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vtu29731/Applied-coding-skills/tree/master/0004-median-of-two-sorted-arrays) |
 | [0704-binary-search](https://github.com/vtu29731/Applied-coding-skills/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vtu29731/Applied-coding-skills/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/vtu29731/Applied-coding-skills/tree/master/0023-merge-k-sorted-lists) |
 ## Heap (Priority Queue)
 |  |
