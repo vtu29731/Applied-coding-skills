@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/vtu29731/Applied-coding-skills/tree/master/0007-reverse-integer) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu29731/Applied-coding-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Dynamic Programming
 |  |
