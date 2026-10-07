@@ -1,0 +1,27 @@
+class Solution {
+    public int dayOfYear(String date) {
+        int year = Integer.parseInt(date.substring(0, 4));
+        int month = Integer.parseInt(date.substring(5, 7));
+        int day = Integer.parseInt(date.substring(8, 10));
+
+        int[] daysInMonth = {0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
+
+        // Check for leap year and update February days
+        if (isLeapYear(year)) {
+            daysInMonth[2] = 29;
+        }
+
+        int dayOfYear = 0;
+        // Sum days of preceding full months
+        for (int i = 1; i < month; i++) {
+            dayOfYear += daysInMonth[i];
+        }
+
+        // Add remaining days in the current month
+        return dayOfYear + day;
+    }
+
+    private boolean isLeapYear(int year) {
+        return (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
+    }
+}
