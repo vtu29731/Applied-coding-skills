@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu29731/Applied-coding-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu29731/Applied-coding-skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu29731/Applied-coding-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2418-sort-the-people](https://github.com/vtu29731/Applied-coding-skills/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vtu29731/Applied-coding-skills/tree/master/0179-largest-number) |
 | [0621-task-scheduler](https://github.com/vtu29731/Applied-coding-skills/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29731/Applied-coding-skills/tree/master/0977-squares-of-a-sorted-array) |
+| [2418-sort-the-people](https://github.com/vtu29731/Applied-coding-skills/tree/master/2418-sort-the-people) |
 ## Linked List
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vtu29731/Applied-coding-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu29731/Applied-coding-skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/vtu29731/Applied-coding-skills/tree/master/0621-task-scheduler) |
+| [2418-sort-the-people](https://github.com/vtu29731/Applied-coding-skills/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/vtu29731/Applied-coding-skills/tree/master/1154-day-of-the-year) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu29731/Applied-coding-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/vtu29731/Applied-coding-skills/tree/master/1360-number-of-days-between-two-dates) |
+| [2418-sort-the-people](https://github.com/vtu29731/Applied-coding-skills/tree/master/2418-sort-the-people) |
 ## Queue
 |  |
 | ------- |
