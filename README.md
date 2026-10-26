@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vtu29731/Applied-coding-skills/tree/master/0621-task-scheduler) |
 | [0641-design-circular-deque](https://github.com/vtu29731/Applied-coding-skills/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/vtu29731/Applied-coding-skills/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/vtu29731/Applied-coding-skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vtu29731/Applied-coding-skills/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/vtu29731/Applied-coding-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu29731/Applied-coding-skills/tree/master/0739-daily-temperatures) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/vtu29731/Applied-coding-skills/tree/master/0179-largest-number) |
 | [0621-task-scheduler](https://github.com/vtu29731/Applied-coding-skills/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/vtu29731/Applied-coding-skills/tree/master/0721-accounts-merge) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29731/Applied-coding-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/vtu29731/Applied-coding-skills/tree/master/2418-sort-the-people) |
 ## Linked List
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vtu29731/Applied-coding-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu29731/Applied-coding-skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/vtu29731/Applied-coding-skills/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/vtu29731/Applied-coding-skills/tree/master/0721-accounts-merge) |
 | [2418-sort-the-people](https://github.com/vtu29731/Applied-coding-skills/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vtu29731/Applied-coding-skills/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/vtu29731/Applied-coding-skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu29731/Applied-coding-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0721-accounts-merge](https://github.com/vtu29731/Applied-coding-skills/tree/master/0721-accounts-merge) |
 | [1154-day-of-the-year](https://github.com/vtu29731/Applied-coding-skills/tree/master/1154-day-of-the-year) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu29731/Applied-coding-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/vtu29731/Applied-coding-skills/tree/master/1360-number-of-days-between-two-dates) |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/vtu29731/Applied-coding-skills/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vtu29731/Applied-coding-skills/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/vtu29731/Applied-coding-skills/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/vtu29731/Applied-coding-skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vtu29731/Applied-coding-skills/tree/master/0733-flood-fill) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vtu29731/Applied-coding-skills/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 ## Binary Tree
@@ -229,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/vtu29731/Applied-coding-skills/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vtu29731/Applied-coding-skills/tree/master/0200-number-of-islands) |
+| [0721-accounts-merge](https://github.com/vtu29731/Applied-coding-skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vtu29731/Applied-coding-skills/tree/master/0733-flood-fill) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vtu29731/Applied-coding-skills/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 ## Greedy
@@ -258,4 +264,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vtu29731/Applied-coding-skills/tree/master/0200-number-of-islands) |
+| [0721-accounts-merge](https://github.com/vtu29731/Applied-coding-skills/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
