@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vtu29731/Applied-coding-skills/tree/master/0739-daily-temperatures) |
 | [0929-unique-email-addresses](https://github.com/vtu29731/Applied-coding-skills/tree/master/0929-unique-email-addresses) |
 | [0946-validate-stack-sequences](https://github.com/vtu29731/Applied-coding-skills/tree/master/0946-validate-stack-sequences) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu29731/Applied-coding-skills/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29731/Applied-coding-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu29731/Applied-coding-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu29731/Applied-coding-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vtu29731/Applied-coding-skills/tree/master/0179-largest-number) |
 | [0621-task-scheduler](https://github.com/vtu29731/Applied-coding-skills/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/vtu29731/Applied-coding-skills/tree/master/0721-accounts-merge) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu29731/Applied-coding-skills/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29731/Applied-coding-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/vtu29731/Applied-coding-skills/tree/master/2418-sort-the-people) |
 ## Linked List
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/vtu29731/Applied-coding-skills/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/vtu29731/Applied-coding-skills/tree/master/0202-happy-number) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu29731/Applied-coding-skills/tree/master/0973-k-closest-points-to-origin) |
 | [1154-day-of-the-year](https://github.com/vtu29731/Applied-coding-skills/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/vtu29731/Applied-coding-skills/tree/master/1185-day-of-the-week) |
 | [1360-number-of-days-between-two-dates](https://github.com/vtu29731/Applied-coding-skills/tree/master/1360-number-of-days-between-two-dates) |
@@ -164,12 +167,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/vtu29731/Applied-coding-skills/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/vtu29731/Applied-coding-skills/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/vtu29731/Applied-coding-skills/tree/master/0190-reverse-bits) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu29731/Applied-coding-skills/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vtu29731/Applied-coding-skills/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/vtu29731/Applied-coding-skills/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/vtu29731/Applied-coding-skills/tree/master/0621-task-scheduler) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu29731/Applied-coding-skills/tree/master/0973-k-closest-points-to-origin) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu29731/Applied-coding-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Merge Sort
 |  |
@@ -290,4 +295,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/vtu29731/Applied-coding-skills/tree/master/0190-reverse-bits) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vtu29731/Applied-coding-skills/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vtu29731/Applied-coding-skills/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vtu29731/Applied-coding-skills/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
