@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vtu29731/Applied-coding-skills/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vtu29731/Applied-coding-skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu29731/Applied-coding-skills/tree/master/0283-move-zeroes) |
+| [0474-ones-and-zeroes](https://github.com/vtu29731/Applied-coding-skills/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu29731/Applied-coding-skills/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/vtu29731/Applied-coding-skills/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/vtu29731/Applied-coding-skills/tree/master/0621-task-scheduler) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vtu29731/Applied-coding-skills/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu29731/Applied-coding-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vtu29731/Applied-coding-skills/tree/master/0198-house-robber) |
+| [0474-ones-and-zeroes](https://github.com/vtu29731/Applied-coding-skills/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/vtu29731/Applied-coding-skills/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/vtu29731/Applied-coding-skills/tree/master/0746-min-cost-climbing-stairs) |
 ## String
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vtu29731/Applied-coding-skills/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/vtu29731/Applied-coding-skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu29731/Applied-coding-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/vtu29731/Applied-coding-skills/tree/master/0474-ones-and-zeroes) |
 | [0721-accounts-merge](https://github.com/vtu29731/Applied-coding-skills/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/vtu29731/Applied-coding-skills/tree/master/0929-unique-email-addresses) |
 | [1154-day-of-the-year](https://github.com/vtu29731/Applied-coding-skills/tree/master/1154-day-of-the-year) |
@@ -323,4 +326,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vtu29731/Applied-coding-skills/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/vtu29731/Applied-coding-skills/tree/master/0474-ones-and-zeroes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/vtu29731/Applied-coding-skills/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
