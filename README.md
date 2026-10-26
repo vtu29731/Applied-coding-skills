@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/vtu29731/Applied-coding-skills/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/vtu29731/Applied-coding-skills/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/vtu29731/Applied-coding-skills/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu29731/Applied-coding-skills/tree/master/0973-k-closest-points-to-origin) |
 | [1154-day-of-the-year](https://github.com/vtu29731/Applied-coding-skills/tree/master/1154-day-of-the-year) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vtu29731/Applied-coding-skills/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu29731/Applied-coding-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/vtu29731/Applied-coding-skills/tree/master/0542-01-matrix) |
 ## String
@@ -307,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/vtu29731/Applied-coding-skills/tree/master/0973-k-closest-points-to-origin) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vtu29731/Applied-coding-skills/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
