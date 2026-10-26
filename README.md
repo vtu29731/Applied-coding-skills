@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vtu29731/Applied-coding-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu29731/Applied-coding-skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/vtu29731/Applied-coding-skills/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/vtu29731/Applied-coding-skills/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vtu29731/Applied-coding-skills/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vtu29731/Applied-coding-skills/tree/master/0344-reverse-string) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vtu29731/Applied-coding-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu29731/Applied-coding-skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/vtu29731/Applied-coding-skills/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/vtu29731/Applied-coding-skills/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu29731/Applied-coding-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu29731/Applied-coding-skills/tree/master/0496-next-greater-element-i) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/vtu29731/Applied-coding-skills/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/vtu29731/Applied-coding-skills/tree/master/0202-happy-number) |
 | [1154-day-of-the-year](https://github.com/vtu29731/Applied-coding-skills/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/vtu29731/Applied-coding-skills/tree/master/1185-day-of-the-week) |
 | [1360-number-of-days-between-two-dates](https://github.com/vtu29731/Applied-coding-skills/tree/master/1360-number-of-days-between-two-dates) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vtu29731/Applied-coding-skills/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/vtu29731/Applied-coding-skills/tree/master/0202-happy-number) |
 ## Monotonic Stack
 |  |
 | ------- |
