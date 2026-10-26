@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vtu29731/Applied-coding-skills/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/vtu29731/Applied-coding-skills/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/vtu29731/Applied-coding-skills/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/vtu29731/Applied-coding-skills/tree/master/0190-reverse-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -285,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vtu29731/Applied-coding-skills/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/vtu29731/Applied-coding-skills/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
