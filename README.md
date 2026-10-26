@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vtu29731/Applied-coding-skills/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/vtu29731/Applied-coding-skills/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu29731/Applied-coding-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/vtu29731/Applied-coding-skills/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vtu29731/Applied-coding-skills/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/vtu29731/Applied-coding-skills/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/vtu29731/Applied-coding-skills/tree/master/0219-contains-duplicate-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu29731/Applied-coding-skills/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/vtu29731/Applied-coding-skills/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vtu29731/Applied-coding-skills/tree/master/0179-largest-number) |
 | [0621-task-scheduler](https://github.com/vtu29731/Applied-coding-skills/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/vtu29731/Applied-coding-skills/tree/master/0721-accounts-merge) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vtu29731/Applied-coding-skills/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu29731/Applied-coding-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu29731/Applied-coding-skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/vtu29731/Applied-coding-skills/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vtu29731/Applied-coding-skills/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/vtu29731/Applied-coding-skills/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu29731/Applied-coding-skills/tree/master/0387-first-unique-character-in-a-string) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vtu29731/Applied-coding-skills/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu29731/Applied-coding-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/vtu29731/Applied-coding-skills/tree/master/0621-task-scheduler) |
 ## Divide and Conquer
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vtu29731/Applied-coding-skills/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/vtu29731/Applied-coding-skills/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/vtu29731/Applied-coding-skills/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -276,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/vtu29731/Applied-coding-skills/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/vtu29731/Applied-coding-skills/tree/master/0721-accounts-merge) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vtu29731/Applied-coding-skills/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
