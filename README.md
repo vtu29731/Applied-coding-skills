@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vtu29731/Applied-coding-skills/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/vtu29731/Applied-coding-skills/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/vtu29731/Applied-coding-skills/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu29731/Applied-coding-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/vtu29731/Applied-coding-skills/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vtu29731/Applied-coding-skills/tree/master/0179-largest-number) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vtu29731/Applied-coding-skills/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/vtu29731/Applied-coding-skills/tree/master/0190-reverse-bits) |
 ## Geometry
 |  |
@@ -337,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/vtu29731/Applied-coding-skills/tree/master/0474-ones-and-zeroes) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vtu29731/Applied-coding-skills/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
