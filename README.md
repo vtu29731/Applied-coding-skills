@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/vtu29731/Applied-coding-skills/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29731/Applied-coding-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu29731/Applied-coding-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1472-design-browser-history](https://github.com/vtu29731/Applied-coding-skills/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu29731/Applied-coding-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu29731/Applied-coding-skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu29731/Applied-coding-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/vtu29731/Applied-coding-skills/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vtu29731/Applied-coding-skills/tree/master/0234-palindrome-linked-list) |
 | [0641-design-circular-deque](https://github.com/vtu29731/Applied-coding-skills/tree/master/0641-design-circular-deque) |
+| [1472-design-browser-history](https://github.com/vtu29731/Applied-coding-skills/tree/master/1472-design-browser-history) |
 ## Stack
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/vtu29731/Applied-coding-skills/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/vtu29731/Applied-coding-skills/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu29731/Applied-coding-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1472-design-browser-history](https://github.com/vtu29731/Applied-coding-skills/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu29731/Applied-coding-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
 |  |
@@ -223,12 +226,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/vtu29731/Applied-coding-skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/vtu29731/Applied-coding-skills/tree/master/0933-number-of-recent-calls) |
 | [1396-design-underground-system](https://github.com/vtu29731/Applied-coding-skills/tree/master/1396-design-underground-system) |
+| [1472-design-browser-history](https://github.com/vtu29731/Applied-coding-skills/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/vtu29731/Applied-coding-skills/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/vtu29731/Applied-coding-skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/vtu29731/Applied-coding-skills/tree/master/0933-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/vtu29731/Applied-coding-skills/tree/master/1472-design-browser-history) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -352,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/vtu29731/Applied-coding-skills/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/vtu29731/Applied-coding-skills/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/vtu29731/Applied-coding-skills/tree/master/0078-subsets) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu29731/Applied-coding-skills/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
