@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vtu29731/Applied-coding-skills/tree/master/0621-task-scheduler) |
 | [0641-design-circular-deque](https://github.com/vtu29731/Applied-coding-skills/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/vtu29731/Applied-coding-skills/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/vtu29731/Applied-coding-skills/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/vtu29731/Applied-coding-skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vtu29731/Applied-coding-skills/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/vtu29731/Applied-coding-skills/tree/master/0735-asteroid-collision) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/vtu29731/Applied-coding-skills/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vtu29731/Applied-coding-skills/tree/master/0234-palindrome-linked-list) |
 | [0641-design-circular-deque](https://github.com/vtu29731/Applied-coding-skills/tree/master/0641-design-circular-deque) |
+| [0705-design-hashset](https://github.com/vtu29731/Applied-coding-skills/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/vtu29731/Applied-coding-skills/tree/master/1472-design-browser-history) |
 ## Stack
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vtu29731/Applied-coding-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu29731/Applied-coding-skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/vtu29731/Applied-coding-skills/tree/master/0621-task-scheduler) |
+| [0705-design-hashset](https://github.com/vtu29731/Applied-coding-skills/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/vtu29731/Applied-coding-skills/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/vtu29731/Applied-coding-skills/tree/master/0929-unique-email-addresses) |
 | [1396-design-underground-system](https://github.com/vtu29731/Applied-coding-skills/tree/master/1396-design-underground-system) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/vtu29731/Applied-coding-skills/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/vtu29731/Applied-coding-skills/tree/master/0232-implement-queue-using-stacks) |
 | [0641-design-circular-deque](https://github.com/vtu29731/Applied-coding-skills/tree/master/0641-design-circular-deque) |
+| [0705-design-hashset](https://github.com/vtu29731/Applied-coding-skills/tree/master/0705-design-hashset) |
 | [0901-online-stock-span](https://github.com/vtu29731/Applied-coding-skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/vtu29731/Applied-coding-skills/tree/master/0933-number-of-recent-calls) |
 | [1396-design-underground-system](https://github.com/vtu29731/Applied-coding-skills/tree/master/1396-design-underground-system) |
@@ -361,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/vtu29731/Applied-coding-skills/tree/master/1472-design-browser-history) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/vtu29731/Applied-coding-skills/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
