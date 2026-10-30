@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/vtu29731/Applied-coding-skills/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu29731/Applied-coding-skills/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29731/Applied-coding-skills/tree/master/0977-squares-of-a-sorted-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu29731/Applied-coding-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2418-sort-the-people](https://github.com/vtu29731/Applied-coding-skills/tree/master/2418-sort-the-people) |
 ## Linked List
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/vtu29731/Applied-coding-skills/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/vtu29731/Applied-coding-skills/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/vtu29731/Applied-coding-skills/tree/master/0929-unique-email-addresses) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu29731/Applied-coding-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1396-design-underground-system](https://github.com/vtu29731/Applied-coding-skills/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/vtu29731/Applied-coding-skills/tree/master/1600-throne-inheritance) |
 | [2418-sort-the-people](https://github.com/vtu29731/Applied-coding-skills/tree/master/2418-sort-the-people) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu29731/Applied-coding-skills/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu29731/Applied-coding-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1600-throne-inheritance](https://github.com/vtu29731/Applied-coding-skills/tree/master/1600-throne-inheritance) |
 ## Breadth-First Search
 |  |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/vtu29731/Applied-coding-skills/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/vtu29731/Applied-coding-skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vtu29731/Applied-coding-skills/tree/master/0733-flood-fill) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu29731/Applied-coding-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vtu29731/Applied-coding-skills/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 ## Binary Tree
 |  |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu29731/Applied-coding-skills/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu29731/Applied-coding-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -307,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vtu29731/Applied-coding-skills/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/vtu29731/Applied-coding-skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vtu29731/Applied-coding-skills/tree/master/0733-flood-fill) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu29731/Applied-coding-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vtu29731/Applied-coding-skills/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1600-throne-inheritance](https://github.com/vtu29731/Applied-coding-skills/tree/master/1600-throne-inheritance) |
 ## Greedy
