@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vtu29731/Applied-coding-skills/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/vtu29731/Applied-coding-skills/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/vtu29731/Applied-coding-skills/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vtu29731/Applied-coding-skills/tree/master/0234-palindrome-linked-list) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/vtu29731/Applied-coding-skills/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu29731/Applied-coding-skills/tree/master/0199-binary-tree-right-side-view) |
 | [1600-throne-inheritance](https://github.com/vtu29731/Applied-coding-skills/tree/master/1600-throne-inheritance) |
 ## Breadth-First Search
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/vtu29731/Applied-coding-skills/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu29731/Applied-coding-skills/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/vtu29731/Applied-coding-skills/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu29731/Applied-coding-skills/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vtu29731/Applied-coding-skills/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/vtu29731/Applied-coding-skills/tree/master/0721-accounts-merge) |
