@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/vtu29731/Applied-coding-skills/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/vtu29731/Applied-coding-skills/tree/master/0929-unique-email-addresses) |
 | [1396-design-underground-system](https://github.com/vtu29731/Applied-coding-skills/tree/master/1396-design-underground-system) |
+| [1600-throne-inheritance](https://github.com/vtu29731/Applied-coding-skills/tree/master/1600-throne-inheritance) |
 | [2418-sort-the-people](https://github.com/vtu29731/Applied-coding-skills/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/vtu29731/Applied-coding-skills/tree/master/0933-number-of-recent-calls) |
 | [1396-design-underground-system](https://github.com/vtu29731/Applied-coding-skills/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/vtu29731/Applied-coding-skills/tree/master/1472-design-browser-history) |
+| [1600-throne-inheritance](https://github.com/vtu29731/Applied-coding-skills/tree/master/1600-throne-inheritance) |
 | [1603-design-parking-system](https://github.com/vtu29731/Applied-coding-skills/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu29731/Applied-coding-skills/tree/master/0199-binary-tree-right-side-view) |
+| [1600-throne-inheritance](https://github.com/vtu29731/Applied-coding-skills/tree/master/1600-throne-inheritance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/vtu29731/Applied-coding-skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vtu29731/Applied-coding-skills/tree/master/0733-flood-fill) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vtu29731/Applied-coding-skills/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1600-throne-inheritance](https://github.com/vtu29731/Applied-coding-skills/tree/master/1600-throne-inheritance) |
 ## Greedy
 |  |
 | ------- |
