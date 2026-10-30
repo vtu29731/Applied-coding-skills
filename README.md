@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu29731/Applied-coding-skills/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu29731/Applied-coding-skills/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vtu29731/Applied-coding-skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu29731/Applied-coding-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1600-throne-inheritance](https://github.com/vtu29731/Applied-coding-skills/tree/master/1600-throne-inheritance) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu29731/Applied-coding-skills/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu29731/Applied-coding-skills/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vtu29731/Applied-coding-skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu29731/Applied-coding-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu29731/Applied-coding-skills/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vtu29731/Applied-coding-skills/tree/master/0200-number-of-islands) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu29731/Applied-coding-skills/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vtu29731/Applied-coding-skills/tree/master/0257-binary-tree-paths) |
 | [0721-accounts-merge](https://github.com/vtu29731/Applied-coding-skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vtu29731/Applied-coding-skills/tree/master/0733-flood-fill) |
@@ -408,4 +411,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/vtu29731/Applied-coding-skills/tree/master/0705-design-hashset) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu29731/Applied-coding-skills/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu29731/Applied-coding-skills/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
