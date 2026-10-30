@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vtu29731/Applied-coding-skills/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/vtu29731/Applied-coding-skills/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/vtu29731/Applied-coding-skills/tree/master/0179-largest-number) |
+| [0257-binary-tree-paths](https://github.com/vtu29731/Applied-coding-skills/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/vtu29731/Applied-coding-skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu29731/Applied-coding-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/vtu29731/Applied-coding-skills/tree/master/0474-ones-and-zeroes) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu29731/Applied-coding-skills/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/vtu29731/Applied-coding-skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu29731/Applied-coding-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1600-throne-inheritance](https://github.com/vtu29731/Applied-coding-skills/tree/master/1600-throne-inheritance) |
 ## Breadth-First Search
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu29731/Applied-coding-skills/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/vtu29731/Applied-coding-skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu29731/Applied-coding-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu29731/Applied-coding-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu29731/Applied-coding-skills/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vtu29731/Applied-coding-skills/tree/master/0200-number-of-islands) |
+| [0257-binary-tree-paths](https://github.com/vtu29731/Applied-coding-skills/tree/master/0257-binary-tree-paths) |
 | [0721-accounts-merge](https://github.com/vtu29731/Applied-coding-skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vtu29731/Applied-coding-skills/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu29731/Applied-coding-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/vtu29731/Applied-coding-skills/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/vtu29731/Applied-coding-skills/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/vtu29731/Applied-coding-skills/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/vtu29731/Applied-coding-skills/tree/master/0257-binary-tree-paths) |
 ## Doubly-Linked List
 |  |
 | ------- |
