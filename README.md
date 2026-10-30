@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vtu29731/Applied-coding-skills/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/vtu29731/Applied-coding-skills/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/vtu29731/Applied-coding-skills/tree/master/0929-unique-email-addresses) |
+| [1396-design-underground-system](https://github.com/vtu29731/Applied-coding-skills/tree/master/1396-design-underground-system) |
 | [2418-sort-the-people](https://github.com/vtu29731/Applied-coding-skills/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/vtu29731/Applied-coding-skills/tree/master/1154-day-of-the-year) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu29731/Applied-coding-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/vtu29731/Applied-coding-skills/tree/master/1360-number-of-days-between-two-dates) |
+| [1396-design-underground-system](https://github.com/vtu29731/Applied-coding-skills/tree/master/1396-design-underground-system) |
 | [2418-sort-the-people](https://github.com/vtu29731/Applied-coding-skills/tree/master/2418-sort-the-people) |
 ## Queue
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/vtu29731/Applied-coding-skills/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/vtu29731/Applied-coding-skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/vtu29731/Applied-coding-skills/tree/master/0933-number-of-recent-calls) |
+| [1396-design-underground-system](https://github.com/vtu29731/Applied-coding-skills/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/vtu29731/Applied-coding-skills/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
